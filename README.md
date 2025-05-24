@@ -2,7 +2,6 @@
 
 A modern collection of arcade-style games built with Pygame. This repository features multiple games with a sleek launcher interface, providing a nostalgic gaming experience with modern code architecture.
 
-![Arcade Games Collection](pygame_arcade_project/assets/readme_banner.png)
 
 ## 🎮 Featured Games
 
